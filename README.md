@@ -28,5 +28,5 @@ Indice
    <li><a href="#">Bem vindo</a></li>
 </ul>
 
-#### : rocket: status
+#### :rocket: status
 ... em construção
