@@ -3,7 +3,7 @@
 ![barcelona](./img/barsemlona.png)
 
 <p align= "center" width="100%">
-       <img width="50%" src="./img/barsemlona.png">
+       <img width="50%" src="./img/barsemlona.png" alt "logo">
 </p>
 
 # Barça o Melhor
